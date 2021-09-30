@@ -1,0 +1,1 @@
+This is mere-z's first git project.
